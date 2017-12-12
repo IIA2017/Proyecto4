@@ -4,7 +4,7 @@ Instalaciones Industriales Avanzadas - Bloque II
 Máster en Ingeniería Industrial
 Universidad de Almería
 
-Autores:
+Autors:
 Antonio Francisco Giménez Segura
 Francisco Javier Gonzálvez Craviotto
 Hiscio Francisco Montoya García
@@ -25,8 +25,8 @@ Materials:
 
 •	Waspmote board
 
-!(alt text)(images/gps_gprs_antenna1.jpg?raw=true "GPS+GPRS module with GPS and GPRS antenna")
-!(alt text)(images/gps_gprs_antenna2.jpg?raw=true "GPS+GPRS module with GPS and GPRS antenna")
+!(alt text)(Images/gps_gprs_antenna1.jpg?raw=true "GPS+GPRS module with GPS and GPRS antenna")
+!(alt text)(Images/gps_gprs_antenna2.jpg?raw=true "GPS+GPRS module with GPS and GPRS antenna")
 
 •	Protoboard
 
@@ -34,18 +34,18 @@ Materials:
 
 •	Smart Cities PRO Board
 
-!(alt text)(images/smartcitiesPRO.jpg?raw=true "Smart Cities PRO board")
+!(alt text)(Images/smartcitiesPRO.jpg?raw=true "Smart Cities PRO board")
 
 •	Luminosity sensor
 
-!(alt text)(images/luminosity.jpg?raw=true "Luminosity Sensor")
+!(alt text)(Images/luminosity.jpg?raw=true "Luminosity Sensor")
 
 •	Temperature, humidity and pressure sensor BME280
 
-!(alt text)(images/bme280.jpg?raw=true "Temperature, humidity and pressure sensor BME280")
+!(alt text)(Images/bme280.jpg?raw=true "Temperature, humidity and pressure sensor BME280")
 
 •	Ultrasound sensor I2CXL-MaxSonar®-MB1202™
 
-!(alt text)(images/ultrasound.jpg?raw=true "Ultrasound sensor I2CXL-MaxSonar®-MB1202™")
+!(alt text)(Images/ultrasound.jpg?raw=true "Ultrasound sensor I2CXL-MaxSonar®-MB1202™")
 
 •	Button
