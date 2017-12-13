@@ -1,9 +1,8 @@
-﻿# Proyecto4:octocat:
+﻿### Proyecto4:octocat:
 
 **Instalaciones Industriales Avanzadas - Bloque II**
 
-**Máster en Ingeniería Industrial**
-**Universidad de Almería**
+**Máster en Ingeniería Industrial - Universidad de Almería**
 
 ---
 
@@ -20,6 +19,8 @@
 
 ---
 
+# PART 1
+
 When ultrasound sensor detects a person passing through, a green LED will be turned on.
 Temperature will be taken into account as well. When an 'high' temperature has been 
 reached, a red LED will be turned on, turning out the green LED if it was turned on.
@@ -30,7 +31,7 @@ In addition, any time, whereas the button is pressed, the green led will turn on
 
 ---
 
-**Materials**:
+**BOM (Bill of Materials)**:
 
 Material | Imagen
 ------------ | :-------------:
@@ -42,5 +43,13 @@ Ultrasound sensor I2CXL-MaxSonar®-MB1202™ | <img src="/images/ultrasound.png"
 Protoboard |
 miniUSB to USB cable | 
 Button |
+
+
+# PART 2
+
+**BOM (Bill of Materials)**:
+
+Material | Imagen
+------------ | :-------------:
 GPS+GPRS module with GPS and GPRS antennas | <img src="images/gps_gprs_antenna1.png" width="150"> <img src="images/gps_gprs_antenna2.png" width="160">
 Standard size SIM card with mobile data balance | <img src="images/simcard.png" width="100">
