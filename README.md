@@ -5,16 +5,18 @@
 **Máster en Ingeniería Industrial**
 **Universidad de Almería**
 
+---
+
 Autors:
 
-•	Antonio Francisco Giménez Segura
-•	Francisco Javier Gonzálvez Craviotto
-•	Hiscio Francisco Montoya García
-•	Miguel Ramón Urrutia
+* Antonio Francisco Giménez Segura
+*	Francisco Javier Gonzálvez Craviotto
+*	Hiscio Francisco Montoya García
+*	Miguel Ramón Urrutia
 
 Lecturer:
 
-•	Gloria Ortega Segura
+*	Gloria Ortega Segura
 
 ---
 
