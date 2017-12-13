@@ -32,8 +32,8 @@ Materials:
 
 1. Waspmote board
 
-!(Alt text)(Images/gps_gprs_antenna1.jpg?raw=true)
-!(Alt text)(Images/gps_gprs_antenna2.jpg?raw=true)
+!(Alt text)(Images/gps_gprs_antenna1.png?raw=true)
+!(Alt text)(Images/gps_gprs_antenna2.png?raw=true)
 
 "GPS+GPRS module with GPS and GPRS antenna"
 
@@ -43,22 +43,22 @@ Materials:
 
 4. Smart Cities PRO Board
 
-!(Alt text)(Images/smartcitiesPRO.jpg?raw=true)
+!(Alt text)(Images/smartcitiesPRO.png?raw=true)
 "Smart Cities PRO board"
 
 5. Luminosity sensor
 
-!(Alt text)(Images/luminosity.jpg?raw=true)
+!(Alt text)(Images/luminosity.png?raw=true)
 "Luminosity Sensor"
 
 6. Temperature, humidity and pressure sensor BME280
 
-!(Alt text)(Images/bme280.jpg?raw=true)
+!(Alt text)(Images/bme280.png?raw=true)
 "Temperature, humidity and pressure sensor BME280"
 
 7. Ultrasound sensor I2CXL-MaxSonar®-MB1202™
 
-!(Alt text)(Images/ultrasound.jpg?raw=true)
+!(Alt text)(Images/ultrasound.png?raw=true)
 "Ultrasound sensor I2CXL-MaxSonar®-MB1202™"
 
 8. Button
