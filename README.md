@@ -34,7 +34,7 @@ Materials:
 
 1. Waspmote board
 
-
+<img src="images/waspmote1.png" width="200"> <img src="images/waspmote2.png" width="200">
 
 2. Protoboard
 
@@ -61,3 +61,7 @@ Materials:
 9. GPS+GPRS module with GPS and GPRS antennas
 
 <img src="images/gps_gprs_antenna1.png" width="175"> <img src="images/gps_gprs_antenna2.png" width="190">
+
+10. SIM card
+
+<img src="images/simcard.png" width="100">
