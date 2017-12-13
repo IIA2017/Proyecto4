@@ -1,4 +1,4 @@
-﻿# Proyecto4
+﻿# Proyecto4:octocat:
 
 **Instalaciones Industriales Avanzadas - Bloque II**
 
@@ -7,14 +7,14 @@
 
 ---
 
-Autors:
+**Autors**:
 
 * Antonio Francisco Giménez Segura
 * Francisco Javier Gonzálvez Craviotto
 * Hiscio Francisco Montoya García
 * Miguel Ramón Urrutia
 
-Lecturer:
+**Lecturer**:
 
 * Gloria Ortega Segura
 
@@ -30,38 +30,17 @@ In addition, any time, whereas the button is pressed, the green led will turn on
 
 ---
 
-Materials:
+**Materials**:
 
-1. Waspmote board
-
-<img src="images/waspmote1.png" width="200"> <img src="images/waspmote2.png" width="200">
-
-2. Protoboard
-
-3. miniUSB to USB cable
-
-4. Smart Cities PRO Board
-
-<img src="images/smartcitiesPRO.png" width="300">
-
-5. Luminosity sensor
-
-<img src="images/luminosity.png" width="100">
-
-6. Temperature, humidity and pressure sensor BME280
-
-<img src="images/bme280.png" width="150">
-
-7. Ultrasound sensor I2CXL-MaxSonar®-MB1202™
-
-<img src="/images/ultrasound.png" width="100">
-
-8. Button
-
-9. GPS+GPRS module with GPS and GPRS antennas
-
-<img src="images/gps_gprs_antenna1.png" width="175"> <img src="images/gps_gprs_antenna2.png" width="190">
-
-10. SIM card
-
-<img src="images/simcard.png" width="100">
+Material | Imagen
+------------ | :-------------:
+Waspmote board | <img src="images/waspmote1.png" width="250"> <img src="images/waspmote2.png" width="200">
+Smart Cities PRO Board | <img src="images/smartcitiesPRO.png" width="200">
+Temperature, humidity and pressure sensor BME280 | <img src="images/bme280.png" width="150">
+Luminosity sensor | <img src="images/luminosity.png" width="100">
+Ultrasound sensor I2CXL-MaxSonar®-MB1202™ | <img src="/images/ultrasound.png" width="100">
+Protoboard |
+miniUSB to USB cable | 
+Button |
+GPS+GPRS module with GPS and GPRS antennas | <img src="images/gps_gprs_antenna1.png" width="150"> <img src="images/gps_gprs_antenna2.png" width="160">
+Standard size SIM card with mobile data balance | <img src="images/simcard.png" width="100">
