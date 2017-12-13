@@ -8,14 +8,14 @@
 
 **Autors**:
 
-* Antonio Francisco Giménez Segura
-* Francisco Javier Gonzálvez Craviotto
-* Hiscio Francisco Montoya García
-* Miguel Ramón Urrutia
+* Antonio Francisco Giménez Segura @ags186
+* Francisco Javier Gonzálvez Craviotto @fjgonzalvez
+* Hiscio Francisco Montoya García @hmg422
+* Miguel Ramón Urrutia @miguelru
 
 **Lecturer**:
 
-* Gloria Ortega Segura
+* Gloria Ortega Segura @gloriaortega
 
 ---
 
