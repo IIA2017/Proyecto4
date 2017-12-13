@@ -60,5 +60,4 @@ Materials:
 
 9. GPS+GPRS module with GPS and GPRS antennas
 
-<img src="images/gps_gprs_antenna1.png" width="175">
-<img src="images/gps_gprs_antenna2.png" width="175">
+<img src="images/gps_gprs_antenna1.png" width="175"> <img src="images/gps_gprs_antenna2.png" width="190">
