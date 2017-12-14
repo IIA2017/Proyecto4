@@ -43,7 +43,7 @@ Ultrasound sensor I2CXL-MaxSonar®-MB1202™ | <img src="/images/ultrasound.png"
 Protoboard | <img src="/images/protoboard.png" width="100">
 miniUSB to USB cable | <img src="/images/usb.png" width="100">
 Button | <img src="/images/button.png" width="100">
-
+Jumpers | <img src="/images/jumper.png" width="100">
 
 # PART 2
 
