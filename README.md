@@ -40,9 +40,9 @@ Smart Cities PRO Board | <img src="images/smartcitiesPRO.png" width="200">
 Temperature, humidity and pressure sensor BME280 | <img src="images/bme280.png" width="150">
 Luminosity sensor | <img src="images/luminosity.png" width="100">
 Ultrasound sensor I2CXL-MaxSonar®-MB1202™ | <img src="/images/ultrasound.png" width="100">
-Protoboard |
-miniUSB to USB cable | 
-Button |
+Protoboard | <img src="/images/protoboard.png" width="100">
+miniUSB to USB cable | <img src="/images/usb.png" width="100">
+Button | <img src="/images/button.png" width="100">
 
 
 # PART 2
