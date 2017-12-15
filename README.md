@@ -52,4 +52,5 @@ Jumpers | <img src="/images/jumper.png" width="100">
 Material | Imagen
 ------------ | :-------------:
 GPS+GPRS module with GPS and GPRS antennas | <img src="images/gps_gprs_antenna1.png" width="150"> <img src="images/gps_gprs_antenna2.png" width="160">
+Battery | <img src="batery.png" width="100">
 Standard size SIM card with mobile data balance | <img src="images/simcard.png" width="100">
